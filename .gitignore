@@ -1,27 +1,30 @@
-# Byte-compiled / optimized / DLL files
-__pycache__/
-*.py[cod]
-*.so
-*.dll
-
-# Virtual environment
-venv/
+# Ignore environment variable files
 .env
-*.env
 
-# Logs and database
+# Bytecode and cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs and system files
 *.log
-*.sqlite3
+*.out
+*.err
 
-# System files
+# Ignore virtual environments
+venv/
+.env/
+env/
+.venv/
+
+# OS-specific files
 .DS_Store
 Thumbs.db
+desktop.ini
 
-# IDE and editor settings
+# Ignore VSCode settings (if using VSCode)
 .vscode/
-.idea/
-*.iml
 
-# Coverage reports
-coverage/
-*.cover
+# Ignore Jupyter notebook checkpoints (if applicable)
+.ipynb_checkpoints/

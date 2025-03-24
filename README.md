@@ -42,15 +42,14 @@ https://github.com/Krishnarajan-K/Searching-files.git
 
 ## Screenshots
 
-[ Screenshot]![● newp py - Visual Studio Code 19-03-2025 22_11_16](https://github.com/user-attachments/assets/22579b3c-04f9-4fd7-99d3-d3e9b8791d5b)
 
 
 
-## Demo
-
-"C:\Users\user1\Videos\Captures\search repo files.mp4"
 
 
+
+
+![Screenshot search](https://github.com/user-attachments/assets/780ca284-3de3-4d36-800d-85b272bdea8c)
 
 
 

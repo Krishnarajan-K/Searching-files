@@ -1,0 +1,9 @@
+#install the below packages.
+fastapi
+uvicorn
+faiss-cpu
+sentence-transformers
+numpy
+scipy
+python-dotenv
+jinja2

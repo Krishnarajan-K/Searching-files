@@ -24,11 +24,14 @@ This Python script scans a specified folder for files and ranks them based on ho
 
 
  1. Clone the repository or    download the script.
+ 2. git clone <your-repo-url>
+cd <your-repo-folder>
 
 
- 2. Install dependencies using:
 
- 3. Create a .env file in the script's directory and add the folder path:
+ 3. Install dependencies using:
+
+ 4. Create a .env file in the script's directory and add the folder path:
 
     
 ## Environment Variables
